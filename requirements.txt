@@ -5,3 +5,4 @@ typing
 tqdm
 langchain
 wget
+google-search-results
